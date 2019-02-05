@@ -6,4 +6,7 @@ biryani
 pasta
 chicken fry
 
+pizza
+burger
+
 Thank you 
